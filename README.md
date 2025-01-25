@@ -13,6 +13,7 @@ Notice: Java version greater than 17.0.
 ## 3 Remote server environment configuration
 
 Transcriptome automated processing tool environment and tool configuration tutorial
+
 (1)Configure conda environment
 Configure according to the following link
 https://zhuanlan.zhihu.com/p/489499097

@@ -27,6 +27,18 @@ files:
   upload:
     path: #########
 
+chatgpt:
+  api:
+    key: your key
+deepseek:
+  api:
+    key: your key
+gemini:
+  api:
+    key: your key
 
+grok:
+  api:
+    key: your key
 
 
